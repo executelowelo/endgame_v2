@@ -1,0 +1,34 @@
+.baner1 {
+    width: 15rem;
+    height: 75rem;
+    float: left;
+  }
+
+  .baner2 {
+    width: 15rem;
+    height: 75rem;
+    float: right;
+  }
+
+.middle_text {
+    text-align: center;
+}
+
+.bg-color{
+    background-color: #808080
+
+}
+.homeicon{
+    width: 3cm;
+    height: 3cm;
+}
+
+.leftnavxd {
+  float: left;
+}
+
+.text-large {
+  font-size: 350%;
+  color: white;
+  font-family: Monospace;
+}
